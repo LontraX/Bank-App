@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\BankAppSqlite\BankApp.Domain\bin\Debug\netcoreapp3.1\BankAppSqlite.Core.deps.json
+C:\Users\hp\source\repos\BankAppSqlite\BankApp.Domain\bin\Debug\netcoreapp3.1\BankAppSqlite.Core.dll
+C:\Users\hp\source\repos\BankAppSqlite\BankApp.Domain\bin\Debug\netcoreapp3.1\BankAppSqlite.Core.pdb
+C:\Users\hp\source\repos\BankAppSqlite\BankApp.Domain\bin\Debug\netcoreapp3.1\BankAppsqlite.Commons.dll
+C:\Users\hp\source\repos\BankAppSqlite\BankApp.Domain\bin\Debug\netcoreapp3.1\BankAppsqlite.Commons.pdb
+C:\Users\hp\source\repos\BankAppSqlite\BankApp.Domain\obj\Debug\netcoreapp3.1\BankAppSqlite.Core.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\BankAppSqlite\BankApp.Domain\obj\Debug\netcoreapp3.1\BankAppSqlite.Core.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\BankAppSqlite\BankApp.Domain\obj\Debug\netcoreapp3.1\BankAppSqlite.Core.AssemblyInfo.cs
+C:\Users\hp\source\repos\BankAppSqlite\BankApp.Domain\obj\Debug\netcoreapp3.1\BankAppSqlite.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BankAppSqlite\BankApp.Domain\obj\Debug\netcoreapp3.1\BankAppSqlite.Core.csproj.CopyComplete
+C:\Users\hp\source\repos\BankAppSqlite\BankApp.Domain\obj\Debug\netcoreapp3.1\BankAppSqlite.Core.dll
+C:\Users\hp\source\repos\BankAppSqlite\BankApp.Domain\obj\Debug\netcoreapp3.1\BankAppSqlite.Core.pdb

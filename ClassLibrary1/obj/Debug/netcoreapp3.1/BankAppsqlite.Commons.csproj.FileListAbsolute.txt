@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\BankAppSqlite\ClassLibrary1\bin\Debug\netcoreapp3.1\BankAppsqlite.Commons.deps.json
+C:\Users\hp\source\repos\BankAppSqlite\ClassLibrary1\bin\Debug\netcoreapp3.1\BankAppsqlite.Commons.dll
+C:\Users\hp\source\repos\BankAppSqlite\ClassLibrary1\bin\Debug\netcoreapp3.1\BankAppsqlite.Commons.pdb
+C:\Users\hp\source\repos\BankAppSqlite\ClassLibrary1\obj\Debug\netcoreapp3.1\BankAppsqlite.Commons.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\BankAppSqlite\ClassLibrary1\obj\Debug\netcoreapp3.1\BankAppsqlite.Commons.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\BankAppSqlite\ClassLibrary1\obj\Debug\netcoreapp3.1\BankAppsqlite.Commons.AssemblyInfo.cs
+C:\Users\hp\source\repos\BankAppSqlite\ClassLibrary1\obj\Debug\netcoreapp3.1\BankAppsqlite.Commons.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BankAppSqlite\ClassLibrary1\obj\Debug\netcoreapp3.1\BankAppsqlite.Commons.dll
+C:\Users\hp\source\repos\BankAppSqlite\ClassLibrary1\obj\Debug\netcoreapp3.1\BankAppsqlite.Commons.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BankAppsqlite.Commons/1.0.0": {
+        "runtime": {
+          "BankAppsqlite.Commons.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankAppsqlite.Commons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
